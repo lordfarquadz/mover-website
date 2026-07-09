@@ -58,3 +58,34 @@ color:white;
 text-align:center;
 padding:25px;
 }
+
+
+.logo{
+font-size:40px;
+margin-bottom:10px;
+}
+
+.badge{
+display:inline-block;
+background:white;
+color:#0b5ed7;
+padding:8px 15px;
+border-radius:20px;
+font-weight:bold;
+}
+
+.buttons a{
+font-size:18px;
+}
+
+@media(max-width:600px){
+.hero h2{
+font-size:24px;
+}
+
+.buttons a{
+display:block;
+margin:15px auto;
+max-width:250px;
+}
+}
