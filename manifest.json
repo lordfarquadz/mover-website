@@ -1,0 +1,9 @@
+{
+  "name":"Late Pond Moving Services",
+  "short_name":"Late Pond",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#1565C0",
+  "theme_color":"#1565C0",
+  "icons":[]
+}
