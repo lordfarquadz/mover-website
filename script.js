@@ -1,1 +1,1 @@
-console.log("Late Pond Moving Services loaded!");
+console.log("Late Pond Moving Services website loaded");
